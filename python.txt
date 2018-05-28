@@ -1,9 +1,5 @@
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-ImportError: No module named list
->>> import this
 The Zen of Python, by Tim Peters
-
+git 我来了
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is better than complex.
